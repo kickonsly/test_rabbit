@@ -1,0 +1,32 @@
+{
+  "name": "test_rabbit",
+  "version": "1.0.0",
+  "description": "for special project with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.5.0",
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.2",
+    "newman": "^5.2.3",
+    "newman-reporter-htmlextra": "^1.21.0",
+    "newman-reporter-junitfull": "^1.1.1",
+    "npx": "^10.2.2",
+    "thai-id-card": "0.0.15"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kickonsly/test_rabbit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kickonsly/test_rabbit/issues"
+  },
+  "homepage": "https://github.com/kickonsly/test_rabbit#readme"
+}

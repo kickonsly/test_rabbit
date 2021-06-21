@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="order_pizza" tests="4" time="8.758">
+  <testsuite name="auth" id="ee336c60-8c04-47e9-baee-4c10b3cdd8cf" timestamp="2021-06-21T12:39:05.355Z" tests="2" failures="0" errors="0" time="7.980">
+    <testcase name="Status code is 200" time="7.980" classname="OrderPizza"/>
+    <testcase name="Verify Access Token Returned" time="7.980" classname="OrderPizza"/>
+  </testsuite>
+  <testsuite name="get order" id="bff5fd87-3d5c-476c-8e6e-90f75952b19a" timestamp="2021-06-21T12:39:05.355Z" tests="1" failures="0" errors="0" time="0.298">
+    <testcase name="Status code is 200" time="0.298" classname="OrderPizza"/>
+  </testsuite>
+  <testsuite name="post order" id="d8bf4ac5-1c7a-48f9-95e6-e49c41270252" timestamp="2021-06-21T12:39:05.355Z" tests="2" failures="0" errors="0" time="0.245">
+    <testcase name="Status code is 201" time="0.245" classname="OrderPizza"/>
+    <testcase name="Verify Order Is Correct" time="0.245" classname="OrderPizza"/>
+  </testsuite>
+  <testsuite name="delete order" id="80566547-d33c-4b90-9289-73bbe1a91939" timestamp="2021-06-21T12:39:05.355Z" tests="2" failures="0" errors="0" time="0.235">
+    <testcase name="Status code is 200" time="0.235" classname="OrderPizza"/>
+    <testcase name="Verify Order Deleted" time="0.235" classname="OrderPizza"/>
+  </testsuite>
+</testsuites>

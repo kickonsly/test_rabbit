@@ -1,0 +1,20 @@
+{
+  "username": 1423,
+  "password": 1423,
+  "product_category": "IPD/OPD",
+  "product_ipdopd_subcategory": "Salary man",
+  "customer_phone": "0999999999",
+  "customer_first_name": "firstnameja",
+  "customer_last_name": "lastnameja",
+  "customer_email": "test@mail.com",
+  "customer_dob": "121294",
+  "customer_gender": "Male",
+  "consent": true,
+  "customer_nationality": "Thai",
+  "customer_id_card": "1234567890123",
+  "customer_address": "MyHome",
+  "customer_province": "Bangkok",
+  "customer_district": "Lak Si",
+  "customer_subdistrict": "Thung Song Hong",
+  "customer_postcode": "10210"
+}
